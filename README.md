@@ -1,5 +1,4 @@
-## Hi there 👋
-# 👋 Hi there, I'm Suraj Deepak Vishwakarma!
+## 👋 Hi there, I'm Suraj Deepak Vishwakarma!
 
 🎯 **Full Stack Developer | IT Analyst | Data Enthusiast**
 
