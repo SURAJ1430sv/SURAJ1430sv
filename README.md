@@ -10,7 +10,7 @@ I'm a passionate developer with a strong interest in **Full-Stack Development, D
 I love building efficient, scalable applications and solving real-world problems through innovative technology.  
 
 - 🎓 Student at **Mumbai University**  
-- 💼 Currently working on **BidMaster** – an advanced online auction system  
+- 💼 Currently working on **CollegeAssist** – an advanced online chatbot for college  
 - 🌱 Exploring **React.js**, **Node.js**, and **Data Visualization Tools**  
 - 💬 Ask me about **MERN Stack**, **SQL Optimization**, and **Business Intelligence**  
 - ⚙️ Always eager to learn and contribute to open-source projects  
@@ -68,17 +68,3 @@ Built using **MERN Stack**, focusing on real-time data updates and seamless user
 *Last Updated: October 2025*
 
 
-<!--
-**SURAJ1430sv/SURAJ1430sv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
